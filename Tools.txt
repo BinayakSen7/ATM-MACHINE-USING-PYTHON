@@ -1,0 +1,9 @@
+
+
+### tools.txt
+
+Tools for Simple Bank Atm System
+
+1. Python 3 - Required to run the program.
+2. Text Editor (jupyter notebook) - To view or edit the code.
+
